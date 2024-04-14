@@ -1,5 +1,5 @@
 {
-  "name": "darkaonline/swagger-lume",
+  "name": "pal-stark/swagger-lume",
   "description": "OpenApi or Swagger integration to Lumen",
   "keywords": [
     "lumen",
@@ -17,6 +17,10 @@
     {
       "name": "Darius Matulionis",
       "email": "darius@matulionis.lt"
+    },
+    {
+      "name": "Pavel V. Strokov",
+      "email": "pavel.strokov@gmail.com"
     }
   ],
   "require": {
