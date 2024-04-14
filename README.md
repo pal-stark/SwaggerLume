@@ -1,7 +1,7 @@
-[![Total Downloads](https://poser.pugx.org/DarkaOnLine/swagger-lume/downloads.svg)](https://packagist.org/packages/DarkaOnLine/swagger-lume)
-![Build Status](https://github.com/DarkaOnLine/SwaggerLume/actions/workflows/test-config.yml/badge.svg?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/DarkaOnLine/SwaggerLume/badge.svg?branch=master)](https://coveralls.io/github/DarkaOnLine/SwaggerLume?branch=master)
-[![Code Climate](https://codeclimate.com/github/DarkaOnLine/SwaggerLume/badges/gpa.svg)](https://codeclimate.com/github/DarkaOnLine/SwaggerLume)
+[![Total Downloads](https://poser.pugx.org/pal-stark/swagger-lume/downloads.svg)](https://packagist.org/packages/pal-stark/swagger-lume)
+![Build Status](https://github.com/pal-stark/SwaggerLume/actions/workflows/test-config.yml/badge.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/pal-stark/SwaggerLume/badge.svg?branch=master)](https://coveralls.io/github/pal-stark/SwaggerLume?branch=master)
+[![Code Climate](https://codeclimate.com/github/pal-stark/SwaggerLume/badges/gpa.svg)](https://codeclimate.com/github/pal-stark/SwaggerLume)
 [![StyleCI](https://styleci.io/repos/50113229/shield)](https://styleci.io/repos/50113229)
 
 SwaggerLume
@@ -16,16 +16,16 @@ Installation
 
  Lumen      | Swagger UI| OpenAPI Spec compatibility | L5-Swagger
 :-----------|:----------|:---------------------------|:----------
- 5.0 - 5.3  | 2.2       | 1.1, 1.2, 2.0              | ``` composer require "darkaonline/swagger-lume:~1.0" ```
- 5.4.x      | 2.2       | 1.1, 1.2, 2.0              | ``` composer require "darkaonline/swagger-lume:~2.0" ```
- 5.4.x      | 3         | 2.0                        | ``` composer require "darkaonline/swagger-lume:~3.0" ```
- 5.5.x      | 3         | 2.0                        | ``` composer require "darkaonline/swagger-lume:5.5.*" ```
- 5.6 - 5.7  | 3         | 2.0, 3.0                   | ``` composer require "darkaonline/swagger-lume:5.6.*" ```
- 6.0        | 3         | 2.0, 3.0                   | ``` composer require "darkaonline/swagger-lume:6.*" ```
- 7.0        | 3         | 2.0, 3.0                   | ``` composer require "darkaonline/swagger-lume:7.*" ```
- 8.0        | 3         | 2.0, 3.0                   | ``` composer require "darkaonline/swagger-lume:8.*" ```
- 9.0        | 3         | 2.0, 3.0                   | ``` composer require "darkaonline/swagger-lume:9.*" ```
- 10.0       | 3         | 2.0, 3.0                   | ``` composer require "darkaonline/swagger-lume:10.*" ```
+ 5.0 - 5.3  | 2.2       | 1.1, 1.2, 2.0              | ``` composer require "pal-stark/swagger-lume:~1.0" ```
+ 5.4.x      | 2.2       | 1.1, 1.2, 2.0              | ``` composer require "pal-stark/swagger-lume:~2.0" ```
+ 5.4.x      | 3         | 2.0                        | ``` composer require "pal-stark/swagger-lume:~3.0" ```
+ 5.5.x      | 3         | 2.0                        | ``` composer require "pal-stark/swagger-lume:5.5.*" ```
+ 5.6 - 5.7  | 3         | 2.0, 3.0                   | ``` composer require "pal-stark/swagger-lume:5.6.*" ```
+ 6.0        | 3         | 2.0, 3.0                   | ``` composer require "pal-stark/swagger-lume:6.*" ```
+ 7.0        | 3         | 2.0, 3.0                   | ``` composer require "pal-stark/swagger-lume:7.*" ```
+ 8.0        | 3         | 2.0, 3.0                   | ``` composer require "pal-stark/swagger-lume:8.*" ```
+ 9.0        | 3         | 2.0, 3.0                   | ``` composer require "pal-stark/swagger-lume:9.*" ```
+ 10.0       | 3         | 2.0, 3.0                   | ``` composer require "pal-stark/swagger-lume:10.*" ```
 
 - Open your `bootstrap/app.php` file and:
 
@@ -99,4 +99,4 @@ The actual Swagger spec is beyond the scope of this package. All SwaggerLume doe
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/DarkaOnLine/SwaggerLume/badge.svg?style=beer-square)](https://beerpay.io/DarkaOnLine/SwaggerLume)  [![Beerpay](https://beerpay.io/DarkaOnLine/SwaggerLume/make-wish.svg?style=flat-square)](https://beerpay.io/DarkaOnLine/SwaggerLume?focus=wish)
+[![Beerpay](https://beerpay.io/pal-stark/SwaggerLume/badge.svg?style=beer-square)](https://beerpay.io/pal-stark/SwaggerLume)  [![Beerpay](https://beerpay.io/pal-stark/SwaggerLume/make-wish.svg?style=flat-square)](https://beerpay.io/pal-stark/SwaggerLume?focus=wish)
